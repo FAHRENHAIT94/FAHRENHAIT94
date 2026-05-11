@@ -16,7 +16,7 @@ Full Stack Developer | .NET Specialist | Electrical & Electronics Engineer
 
 ## 🚀 About Me
 
-- 💼 Software Specialist at VisionX Bilgi Teknolojileri  
+- 💼 Software Specialist at Vizyoneks Bilgi Teknolojileri  
 - 🎓 Electrical & Electronics Engineer  
 - ⚙️ Focused on scalable backend systems & real-time applications  
 - 🎮 Game development with Unity  
