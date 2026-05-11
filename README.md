@@ -48,56 +48,43 @@
 
 ---
 
-## 🛠️ Languages and Tools
+#<h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<a href="https://dotnet.microsoft.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<a href="https://git-scm.com/">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://reactjs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://nodejs.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://www.microsoft.com/en-us/sql-server">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/>
-</a>
-
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<a href="https://www.oracle.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </a>
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
