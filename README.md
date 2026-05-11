@@ -50,6 +50,7 @@ Full Stack Developer | .NET Specialist | Electrical & Electronics Engineer
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/microsoft_azure.svg" width="40"/>
 </p>
 
 ---
