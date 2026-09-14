@@ -20,7 +20,7 @@ Full Stack Developer | .NET Specialist | Electrical & Electronics Engineer
 - 🎓 Electrical & Electronics Engineer  
 - ⚙️ Focused on scalable backend systems & real-time applications  
 - 🎮 Game development with Unity  
-- 🧠 Interested in AI, Blockchain & Defense Technologies  
+- 🧠 Interested in Defense Technologies  
 
 ---
 
