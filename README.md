@@ -81,10 +81,8 @@ Full Stack Developer | .NET Specialist | Electrical & Electronics Engineer
 
 ## 📌 Featured Projects
 
-- 🎮 Unity multiplayer shooter game  
-- 👁️ AI Face recognition system (OpenCV)  
-- 🏥 Hospital Management System (HBYS)  
-- 🔗 Blockchain-based P2P Insurance system  
+- 🎮 Androdi several apps  
+- 🏥 High-security prison software  
 - 📡 Modbus RTU distributed communication systems  
 
 ---
@@ -93,7 +91,7 @@ Full Stack Developer | .NET Specialist | Electrical & Electronics Engineer
 
 - GitHub: https://github.com/fahrenhait94  
 - LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- Email: yourmail@example.com  
+- Email: yasin_coskuner@hotmail.com 
 
 ---
 
